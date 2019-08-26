@@ -5,11 +5,7 @@ I will write android xml file in this repository. because I want to share with e
 
 
 ## constraint layout
-beauty and the beast.
-I have referred to [this site](https://riggaroo.co.za/constraintlayout-guidelines-barriers-chains-groups/).
 
-[sample code](ConstraintLayout_Study/)
-
-![](ConstraintLayout_Study/doc/constraint_layout_beauty_and_the_beast.png)
-
-
+| Project name | memo | image |
+|:--------:|:--------:|:--------:|
+| [Constraint layout sample](ConstraintLayout_Study/) | I have referred to [this site](https://riggaroo.co.za/constraintlayout-guidelines-barriers-chains-groups/) | ![](ConstraintLayout_Study/doc/constraint_layout_beauty_and_the_beast.png) |
