@@ -10,6 +10,6 @@ I have referred to [this site](https://riggaroo.co.za/constraintlayout-guideline
 
 [sample code](ConstraintLayout_Study/)
 
-![](ConstraintLayout_Study\doc\constraint_layout_beauty_and_the_beast.png)
+![](ConstraintLayout_Study/doc/constraint_layout_beauty_and_the_beast.png)
 
 
